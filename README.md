@@ -30,8 +30,8 @@
 ### 📫 How to Reach Me
 
 - 📩 Email: **deepakobc933@gmail.com**  
-- 🌐 Portfolio: [your-portfolio-link](https://your-portfolio-link.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🌐 Portfolio: [your-portfolio-link](deepakportfolio01.netlify.app)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/deepak-kumar-9d9/)
 
 ---
 
