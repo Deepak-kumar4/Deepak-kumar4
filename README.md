@@ -40,6 +40,3 @@ I come from Patwatoli, Gaya — where many IITians are born — and I'm on a mis
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Deepak's GitHub Stats" />
-</p>
