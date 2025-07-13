@@ -2,13 +2,17 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <p align="center">A passionate Fullstack Web Developer from India 🇮🇳</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deepak-kumar4&label=Profile%20views&color=0e75b6&style=flat" alt="Deepak-kumar4" />
+</p>
+
 ---
 
 ### 🚀 About Me
 
-- 👨‍💻 I love building full-stack web apps that solve real problems
-- 🔥 Hungry to innovate, learn fast, and create things that help people
-- 💡 I believe in learning by building and solving challenges
+- 👨‍💻 I love building full-stack web apps that solve real problems  
+- 🔥 Hungry to innovate, learn fast, and create things that help people  
+- 💡 I believe in learning by building and solving challenges  
 
 ---
 
@@ -26,6 +30,7 @@
 - Exploring AI integrations and smart UI/UX design  
 - Practicing building real-time and secure apps  
 
+---
 
 ### 📫 How to Reach Me
 
@@ -37,6 +42,3 @@
 ### ⚡ Fun Fact
 
 I come from Patwatoli, Gaya — where many IITians are born — and I'm on a mission to build things that inspire others too.
-
----
-
