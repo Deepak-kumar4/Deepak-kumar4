@@ -1,7 +1,3 @@
-<!-- Typing SVG banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer+from+India;Building+Projects+that+Solve+Real+Problems;Learning+Every+Single+Day" alt="Typing SVG" />
-</p>
 
 <!-- Animated waving hand and intro -->
 <h1 align="center">Hi <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" width="35" />, I'm Deepak Kumar</h1>
