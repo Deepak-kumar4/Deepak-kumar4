@@ -1,9 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <p align="center">A passionate Fullstack Web Developer from India 🇮🇳</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepak-kumar4&label=Profile%20views&color=0e75b6&style=flat" alt="Deepak-kumar4" />
+  <img src="https://komarev.com/ghpvc/?username=Deepak-kumar4&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -42,3 +41,19 @@
 ### ⚡ Fun Fact
 
 I come from Patwatoli, Gaya — where many IITians are born — and I'm on a mission to build things that inspire others too.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-kumar4&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-kumar4&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-kumar4&layout=compact&theme=radical" alt="Top Languages" />
+</p>
